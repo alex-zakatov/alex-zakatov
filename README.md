@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Alex 🤓
+And I'm starting my career as a Data Scientist.
 
-<!--
-**alex-zakatov/alex-zakatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Here's 3 facts about me 
+- 👨‍💻 I’m currently working at [Yandex Practicum](https://practicum.yandex.ru/)
+- 🎓 I've just completed a Data Science bootcamp
+- 👯 I’m looking to collaborate on GAN, CV and NLP projets
 
-Here are some ideas to get you started:
+## Skills
+Data Analisys, Data Visualization, Machine Learning, Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## And my toolbox
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+
+## Contacts
+- 📫 E-mail: [alexeyzakatov@yandex.ru](mailto:alexeyzakatov@yandex.ru)
+- 🛫 Telegram: [@alexzakatov](t.me/alexzakatov)
