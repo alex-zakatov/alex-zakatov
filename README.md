@@ -12,7 +12,7 @@ I'm Alex, and I'm starting my career as a Data Scientist.
 * Engineer of Industrial Electronics, Ivanovo State Pover University — 2011
 
 ### Skills
-Data Analisys, Data Visualization, Machine Learning, Deep Learning
+Data Analysis, Data Visualization, Machine Learning, Deep Learning
 
 ### My toolbox
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
