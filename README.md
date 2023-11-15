@@ -6,6 +6,11 @@ I'm Alex, and I'm starting my career as a Data Scientist.
 - 🎓 I've just completed a Data Science bootcamp
 - 👯 I’m looking to collaborate on GAN, CV and NLP projets
 
+### Education
+* Data Science specialist, Yandex Practicum bootcamp — 2023
+* Postgraduate in Computer Science, Ivanovo State Pover University — 2014
+* Engineer of Industrial Electronics, Ivanovo State Pover University — 2011
+
 ### Skills
 Data Analisys, Data Visualization, Machine Learning, Deep Learning
 
