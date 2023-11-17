@@ -1,5 +1,5 @@
-## Hi there! 🤓
-I'm Alex, and I'm starting my career as a Data Scientist.
+## Hi there, I'm Alex! 🤓
+And I'm starting my career as a Data Scientist.
 
 ### Here's 3 facts about me 
 - 👨‍💻 I’m currently working at [Yandex Practicum](https://practicum.yandex.ru/)
